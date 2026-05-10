@@ -1,3 +1,3 @@
-Desenvolvido na disciplina de estrutura de dados o projeto do 3º semestre é um sistema para gestão de uma livraria desenvolvido na linguagem C. Utilizou-se as estruturas de dados structs (estruturas) e arquivos.
-Foi desenvolvido na IDE Embarcadero dev c++. Ao compilar e executar o programa é aberto um menu de opções no qual o usuário escolhe a opção desejada. O sistema realiza operações de CRUD (Create, Read, Update e Delete). 
+Desenvolvido na disciplina de estrutura de dados, o projeto do 3º semestre é um sistema para gestão de uma livraria desenvolvido na linguagem C. Utilizaram-se as estruturas de dados structs (estruturas) e arquivos.
+Foi desenvolvido na IDE Embarcadero dev c++. Ao compilar e executar o programa, é aberto um menu de opções no qual o usuário escolhe a opção desejada. O sistema realiza operações de CRUD (Create, Read, Update e Delete). 
 As informações são armazenadas em arquivos binários. Os registros de livros, por exemplo, são armazenados em um arquivo binário dedicado. Dessa forma, as informações não são perdidas e podem ser recuperadas sempre que o programa é executado.
